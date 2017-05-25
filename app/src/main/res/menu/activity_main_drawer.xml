@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/vegetables"
+            android:title="Vegetables" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/fruit"
+            android:title="Fruits" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/food"
+            android:title="Bakery" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/groceries"
+            android:title="Other Items" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/contact"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/rate"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+                android:title="About Us" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/logout"
+                android:title="Log Out" />
+        </menu>
+    </item>
+
+</menu>

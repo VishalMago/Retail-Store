@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "184852482220",
+    "firebase_url": "https://retailstore-ae67f.firebaseio.com",
+    "project_id": "retailstore-ae67f",
+    "storage_bucket": "retailstore-ae67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184852482220:android:ce33c82df0428335",
+        "android_client_info": {
+          "package_name": "com.ace.vishal.retailstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184852482220-pgeqs26j7hnauc88tcfunb6ehe02aqe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYa4eElTuPWAji5FfQv9R_T4vydUb2SwQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
